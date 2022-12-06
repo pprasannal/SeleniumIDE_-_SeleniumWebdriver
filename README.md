@@ -1,15 +1,15 @@
 # SeleniumIDE_-_SeleniumWebdriver
 
 I.	instructions to install the chosen web application  :-
-a. open xampp in between 7.0 to 7.3.17 version,
-b. open http://localhost/80(port number)/ (to check weather it working or not),
-c. open http://localhost/project holder name(orangehrm)/ (which use to open the saved project in the xampp/htdocs/(project folder)),
-d. during setup id:Admin, passwd:AdminUser@12345,
-e. after set up is done
+1. open xampp in between 7.0 to 7.3.17 version,
+2. open http://localhost/80(port number)/ (to check weather it working or not),
+3. open http://localhost/project holder name(orangehrm)/ (which use to open the saved project in the xampp/htdocs/(project folder)),
+4. during setup id:Admin, passwd:AdminUser@12345,
+5. after set up is done
 
 II.	how to open the project :-
-a. open xampp run apache and mysql,
-b. open browser and use this url to open project http://localhost/orangehrm/orangehrm-4.4/symfony/web/index.php/auth/login 
+1. open xampp run apache and mysql,
+2. open browser and use this url to open project http://localhost/orangehrm/orangehrm-4.4/symfony/web/index.php/auth/login 
 
 III.	list of test cases :-
 
