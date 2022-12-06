@@ -2,7 +2,7 @@
 
 I.	instructions to install the chosen web application  :-
 1. open xampp in between 7.0 to 7.3.17 version,
-2. open http://localhost/80(port number)/ (to check weather it working or not),
+2. open http://localhost/80 (port number)/ (to check weather it working or not),
 3. open http://localhost/project holder name(orangehrm)/ (which use to open the saved project in the xampp/htdocs/(project folder)),
 4. during setup id:Admin, passwd:AdminUser@12345,
 5. after set up is done
